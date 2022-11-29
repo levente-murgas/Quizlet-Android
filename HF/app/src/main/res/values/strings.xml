@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">HF</string>
+    <string name="name">Name</string>
+    <string name="new_deck">New deck</string>
+    <string name="new_flash_card">New flashcard</string>
+    <string name="button_ok">Ok</string>
+    <string name="button_cancel">Cancel</string>
+    <string name="button_yes">Yes</string>
+    <string name="button_no">No</string>
+    <string name="term">Term</string>
+    <string name="definition">Definition</string>
+    <string name="quiz">Quiz</string>
+    <string name="quiz_finished">Quiz finished</string>
+    <string name="quiz_finished_cards_left">You have cards left to learn. Do you want to go through them again?</string>
+    <string name="quiz_finished_no_cards_left">You have mastered the study set! Congratulations!</string>
+    <string name="title_activity_quiz">QuizActivity</string>
+    <string name="got_it">Got it</string>
+    <string name="fullscreen_text">Fullscreen text</string>
+    <string name="study_again">Study again</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
